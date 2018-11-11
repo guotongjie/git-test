@@ -10,5 +10,6 @@ public class hhh {
 
     public void hshhh (){
         System.out.println("hhijknsrdbicjsd");
+        int i = 0;
     }
 }
