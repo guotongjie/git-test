@@ -7,4 +7,8 @@ public class hhh {
         System.out.println("hhhhjjhhjhhhhj");
         System.out.println("hhhhjjhhjhhhhj");
     }
+
+    public void hshhh (){
+        System.out.println("hhijknsrdbicjsd");
+    }
 }
