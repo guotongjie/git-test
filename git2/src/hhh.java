@@ -11,5 +11,9 @@ public class hhh {
     public void hshhh (){
         System.out.println("hhijknsrdbicjsd");
         int i = 0;
+        System.out.println("hhhhjjhhjhhhhj");
+        System.out.println("hhhhjjhhjhhhhj");
+        System.out.println("hhhhjjhhjhhhhj");
+        System.out.println("hhhhjjhhjhhhhj");
     }
 }
